@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
-<img src="" align="center" alt="header image"> <!-- Puedes poner tu propia imagen -->
+<img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" align="center" alt="header image"> <!-- Puedes poner tu propia imagen -->
 
 -------------------
 &emsp;
