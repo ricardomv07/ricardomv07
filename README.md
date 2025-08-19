@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
+<h1 align="center">Hola, bienvenido 👋 soy Ricardo Medina</h1>
 
 <p align="center">
   <img src="https://github.com/ricardomv07/ricardomv07/blob/main/MeTrue.png" alt="Ricardo Medina" width="550" style="border-radius:20px;"/>
