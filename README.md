@@ -1,37 +1,33 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
-<!-- Iconos izquierda -->
-<svg width="80" height="200" viewBox="0 0 80 200" xmlns="http://www.w3.org/2000/svg">
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" x="15" y="0" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="3s" repeatCount="indefinite"/>
-  </image>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" x="15" y="70" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="4s" repeatCount="indefinite"/>
-  </image>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" x="15" y="140" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="5s" repeatCount="indefinite"/>
-  </image>
-</svg>
+  <!-- Iconos izquierda -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
+  </div>
 
-<!-- Imagen central -->
-<img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
+  <!-- Imagen central -->
+  <img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
 
-<!-- Iconos derecha -->
-<svg width="80" height="200" viewBox="0 0 80 200" xmlns="http://www.w3.org/2000/svg">
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" x="15" y="0" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-10; 0,0" dur="3s" repeatCount="indefinite"/>
-  </image>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" x="15" y="70" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-8; 0,0" dur="4s" repeatCount="indefinite"/>
-  </image>
-  <image href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" x="15" y="140" width="50">
-    <animateTransform attributeName="transform" type="translate" values="0,0; 0,-12; 0,0" dur="5s" repeatCount="indefinite"/>
-  </image>
-</svg>
+  <!-- Iconos derecha -->
+  <div style="display: flex; flex-direction: column; gap: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
+  </div>
 
 </div>
+
+<!-- Animación flotante CSS -->
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+</style>
 
 -------------------
 &emsp;
