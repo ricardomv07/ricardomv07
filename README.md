@@ -1,32 +1,40 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+<table align="center">
+  <tr>
+    <!-- Iconos izquierda -->
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+    </td>
 
-  <!-- Iconos izquierda -->
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
-  </div>
+    <!-- Imagen central -->
+    <td align="center" valign="middle" style="padding: 0 20px;">
+      <img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
+    </td>
 
-  <!-- Imagen central -->
-  <img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
+    <!-- Iconos derecha -->
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
+      <br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+    </td>
+  </tr>
+</table>
 
-  <!-- Iconos derecha -->
-  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
-  </div>
-
-</div>
-
-<style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-</style>
 
 
 -------------------
