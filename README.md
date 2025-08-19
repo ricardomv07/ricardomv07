@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
 
   <!-- Iconos izquierda -->
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
@@ -16,18 +16,18 @@
   <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
   </div>
 
 </div>
 
-<!-- Animación flotante CSS -->
 <style>
 @keyframes float {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-10px); }
 }
 </style>
+
 
 -------------------
 &emsp;
