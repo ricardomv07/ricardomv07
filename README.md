@@ -1,26 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
 <p align="center">
-  <!-- Iconos izquierda -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- espacio entre los iconos y la imagen central -->
-  
-  <!-- Imagen central -->
-  <img src="https://raw.githubusercontent.com/ricardomv07/ricardomv07/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
-  
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- espacio entre la imagen y los iconos de la derecha -->
-  
-  <!-- Iconos derecha -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/ricardomv07/ricardomv07/main/LogoMe-removebg-preview.png" alt="Ricardo Medina" width="300" style="border-radius:20px;"/>
 </p>
 
 
