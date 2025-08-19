@@ -8,14 +8,18 @@
 
 -------------------
 &emsp;
-<h3 align="left">Soy Desarrollador en formación con experiencia en proyectos académicos y profesionales, especializado en Java, Spring Boot, SQL/NoSQL, JavaScript y AWS. Actualmente colaboro en Exos Technology y estudio en la Universidad Tecnológica Emiliano Zapata.</h3>
+<h3 align="left">
+Soy Desarrollador en formación con experiencia en proyectos académicos y profesionales, especializado en Java, Spring Boot, SQL/NoSQL, JavaScript y AWS. Actualmente colaboro en Exos Technology y estudio en la 
+<a href="https://www.utez.edu.mx/ingenieria-en-tecnologias-de-la-informacion-e-innovacion-digital/" target="_blank">Universidad Tecnológica Emiliano Zapata (UTEZ)</a>.
+</h3>
+
 &emsp;
 
 -------------------
 &emsp;
 
 - 🔭 Actualmente trabajo en **Exos Technology** desarrollando soluciones backend con Java y Spring Boot.  
-- 📚 Estudio **Desarrollo de Software Multiplataforma** en la UTEZ.  
+- 📚 Estudio **[Desarrollo de Software Multiplataforma](https://www.utez.edu.mx/ingenieria-en-tecnologias-de-la-informacion-e-innovacion-digital/)** en la UTEZ.  
 - 🌱 Estoy aprendiendo **Microservicios, Arquitectura Distribuida, React y DevOps**.  
 - 💬 Pregúntame sobre **Java, Spring Boot, SQL/NoSQL, REST APIs, AWS**.  
 
