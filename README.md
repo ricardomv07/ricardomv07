@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo Medina</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ricardomv07/ricardomv07/main/LogoMe-removebg-preview.png" alt="Ricardo Medina" width="500" style="border-radius:20px;"/>
+  <img src="https://github.com/ricardomv07/ricardomv07/blob/main/MeTrue.png" alt="Ricardo Medina" width="550" style="border-radius:20px;"/>
 </p>
 
 
