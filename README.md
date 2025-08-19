@@ -3,7 +3,7 @@
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
 
   <!-- Iconos izquierda -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
@@ -13,7 +13,7 @@
   <img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
 
   <!-- Iconos derecha -->
-  <div style="display: flex; flex-direction: column; gap: 10px;">
+  <div style="display: flex; flex-direction: column; justify-content: center; gap: 10px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" style="animation: float 3s ease-in-out infinite;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" style="animation: float 4s ease-in-out infinite;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" style="animation: float 5s ease-in-out infinite;">
