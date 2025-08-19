@@ -14,12 +14,12 @@
       <br>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
     </td>
-  </tr>
+
     <!-- Imagen central -->
     <td align="center" valign="middle" style="padding: 0 20px;">
-      <img src="https://github.com/ricardomv07/ricardomv07/blob/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
+      <img src="https://raw.githubusercontent.com/ricardomv07/ricardomv07/main/me.png" alt="Ricardo Medina" width="200" style="border-radius:20px;"/>
     </td>
-  <tr>
+
     <!-- Iconos derecha -->
     <td align="center" valign="middle">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
